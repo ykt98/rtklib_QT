@@ -1,0 +1,14 @@
+﻿  keydlg.cpp
+  qrc_strsvr_qt.cpp
+  moc_aboutdlg.cpp
+  moc_cmdoptdlg.cpp
+  moc_console.cpp
+  moc_convdlg.cpp
+  moc_fileoptdlg.cpp
+  moc_ftpoptdlg.cpp
+  moc_refdlg.cpp
+  moc_serioptdlg.cpp
+  moc_svrmain.cpp
+  moc_svroptdlg.cpp
+  moc_tcpoptdlg.cpp
+  strsvr_qt.vcxproj -> D:\rtklib\rtk\app\strsvr_qt\debug\strsvr_qt.exe

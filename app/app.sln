@@ -1,0 +1,62 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rtknavi_qt", "D:/RTKLIB-rtklib_2.4.3/RTKLIB-rtklib_2.4.3/app/rtknavi_qt\rtknavi_qt.vcxproj", "{FE7682A1-5EB1-3A75-89AC-2CC4DDDF44B5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rtkget_qt", "D:/RTKLIB-rtklib_2.4.3/RTKLIB-rtklib_2.4.3/app/rtkget_qt\rtkget_qt.vcxproj", "{D342F928-0905-377E-A27A-C8D242F8DAF2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rtkplot_qt", "D:/RTKLIB-rtklib_2.4.3/RTKLIB-rtklib_2.4.3/app/rtkplot_qt\rtkplot_qt.vcxproj", "{07B68E7B-446B-3F3E-A418-0A2220883549}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rtkpost_qt", "D:/RTKLIB-rtklib_2.4.3/RTKLIB-rtklib_2.4.3/app/rtkpost_qt\rtkpost_qt.vcxproj", "{48D1B14A-9199-3B93-B605-B50A6C5A05CD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rtklaunch_qt", "D:/RTKLIB-rtklib_2.4.3/RTKLIB-rtklib_2.4.3/app/rtklaunch_qt\rtklaunch_qt.vcxproj", "{E5B964C3-7555-3189-A1D1-ECD86A1D8248}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "srctblbrows_qt", "D:/RTKLIB-rtklib_2.4.3/RTKLIB-rtklib_2.4.3/app/srctblbrows_qt\srctblbrows_qt.vcxproj", "{038C93D9-8E10-3345-A21B-F35F3178B260}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strsvr_qt", "D:/RTKLIB-rtklib_2.4.3/RTKLIB-rtklib_2.4.3/app/strsvr_qt\strsvr_qt.vcxproj", "{3D3117B9-F5F4-375F-A660-9C0A2C00E2A3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rtkconv_qt", "D:/RTKLIB-rtklib_2.4.3/RTKLIB-rtklib_2.4.3/app/rtkconv_qt\rtkconv_qt.vcxproj", "{50328E11-F076-3812-9760-1C15A16BCD7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE7682A1-5EB1-3A75-89AC-2CC4DDDF44B5}.Debug|x64.ActiveCfg = Debug|x64
+		{FE7682A1-5EB1-3A75-89AC-2CC4DDDF44B5}.Debug|x64.Build.0 = Debug|x64
+		{FE7682A1-5EB1-3A75-89AC-2CC4DDDF44B5}.Release|x64.ActiveCfg = Release|x64
+		{FE7682A1-5EB1-3A75-89AC-2CC4DDDF44B5}.Release|x64.Build.0 = Release|x64
+		{D342F928-0905-377E-A27A-C8D242F8DAF2}.Debug|x64.ActiveCfg = Debug|x64
+		{D342F928-0905-377E-A27A-C8D242F8DAF2}.Debug|x64.Build.0 = Debug|x64
+		{D342F928-0905-377E-A27A-C8D242F8DAF2}.Release|x64.ActiveCfg = Release|x64
+		{D342F928-0905-377E-A27A-C8D242F8DAF2}.Release|x64.Build.0 = Release|x64
+		{07B68E7B-446B-3F3E-A418-0A2220883549}.Debug|x64.ActiveCfg = Debug|x64
+		{07B68E7B-446B-3F3E-A418-0A2220883549}.Debug|x64.Build.0 = Debug|x64
+		{07B68E7B-446B-3F3E-A418-0A2220883549}.Release|x64.ActiveCfg = Release|x64
+		{07B68E7B-446B-3F3E-A418-0A2220883549}.Release|x64.Build.0 = Release|x64
+		{48D1B14A-9199-3B93-B605-B50A6C5A05CD}.Debug|x64.ActiveCfg = Debug|x64
+		{48D1B14A-9199-3B93-B605-B50A6C5A05CD}.Debug|x64.Build.0 = Debug|x64
+		{48D1B14A-9199-3B93-B605-B50A6C5A05CD}.Release|x64.ActiveCfg = Release|x64
+		{48D1B14A-9199-3B93-B605-B50A6C5A05CD}.Release|x64.Build.0 = Release|x64
+		{E5B964C3-7555-3189-A1D1-ECD86A1D8248}.Debug|x64.ActiveCfg = Debug|x64
+		{E5B964C3-7555-3189-A1D1-ECD86A1D8248}.Debug|x64.Build.0 = Debug|x64
+		{E5B964C3-7555-3189-A1D1-ECD86A1D8248}.Release|x64.ActiveCfg = Release|x64
+		{E5B964C3-7555-3189-A1D1-ECD86A1D8248}.Release|x64.Build.0 = Release|x64
+		{038C93D9-8E10-3345-A21B-F35F3178B260}.Debug|x64.ActiveCfg = Debug|x64
+		{038C93D9-8E10-3345-A21B-F35F3178B260}.Debug|x64.Build.0 = Debug|x64
+		{038C93D9-8E10-3345-A21B-F35F3178B260}.Release|x64.ActiveCfg = Release|x64
+		{038C93D9-8E10-3345-A21B-F35F3178B260}.Release|x64.Build.0 = Release|x64
+		{3D3117B9-F5F4-375F-A660-9C0A2C00E2A3}.Debug|x64.ActiveCfg = Debug|x64
+		{3D3117B9-F5F4-375F-A660-9C0A2C00E2A3}.Debug|x64.Build.0 = Debug|x64
+		{3D3117B9-F5F4-375F-A660-9C0A2C00E2A3}.Release|x64.ActiveCfg = Release|x64
+		{3D3117B9-F5F4-375F-A660-9C0A2C00E2A3}.Release|x64.Build.0 = Release|x64
+		{50328E11-F076-3812-9760-1C15A16BCD7D}.Debug|x64.ActiveCfg = Debug|x64
+		{50328E11-F076-3812-9760-1C15A16BCD7D}.Debug|x64.Build.0 = Debug|x64
+		{50328E11-F076-3812-9760-1C15A16BCD7D}.Release|x64.ActiveCfg = Release|x64
+		{50328E11-F076-3812-9760-1C15A16BCD7D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

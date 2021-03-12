@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rtknavi_qt", "rtknavi_qt.vcxproj", "{F89AF240-6C33-395F-936C-DC9FE4B14348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F89AF240-6C33-395F-936C-DC9FE4B14348}.Debug|x64.ActiveCfg = Debug|x64
+		{F89AF240-6C33-395F-936C-DC9FE4B14348}.Debug|x64.Build.0 = Debug|x64
+		{F89AF240-6C33-395F-936C-DC9FE4B14348}.Release|x64.ActiveCfg = Release|x64
+		{F89AF240-6C33-395F-936C-DC9FE4B14348}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B67C6829-CC53-454E-A504-3E0DFE998FA9}
+	EndGlobalSection
+EndGlobal

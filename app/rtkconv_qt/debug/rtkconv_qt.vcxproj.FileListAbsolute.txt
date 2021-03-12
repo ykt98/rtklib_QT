@@ -1,0 +1,2 @@
+D:\rtklib\rtk\app\rtkconv_qt\debug\rtkconv_qt.exe
+D:\rtklib\rtk\app\rtkconv_qt\debug\rtkconv_qt.pdb

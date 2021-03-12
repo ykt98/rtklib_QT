@@ -1,0 +1,26 @@
+﻿  Moc'ing navimain.h...
+  instrdlg.cpp
+  main.cpp
+  navimain.cpp
+  naviopt.cpp
+D:\rtklib\rtk\app\rtknavi_qt\navimain.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\rtklib\rtk\app\rtknavi_qt\instrdlg.cpp(114,10): warning C4101: “ok”: 未引用的局部变量
+D:\rtklib\rtk\app\rtknavi_qt\navimain.cpp(333,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\rtklib\rtk\app\rtknavi_qt\navimain.cpp(579,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\rtklib\rtk\app\rtknavi_qt\navimain.cpp(837,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\rtklib\rtk\app\rtknavi_qt\navimain.cpp(1637,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\rtklib\rtk\app\rtknavi_qt\navimain.cpp(2201,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\rtklib\rtk\app\rtknavi_qt\navimain.cpp(2932,20): warning C4477: “sscanf”: 格式字符串“%ld”需要类型“long *”的参数，但可变参数 5 拥有了类型“time_t *”
+D:\rtklib\rtk\app\rtknavi_qt\navimain.cpp(2932,20): message : 请考虑在格式字符串中使用“%lld”
+D:\rtklib\rtk\app\rtknavi_qt\navimain.cpp(2932,20): message : 请考虑在格式字符串中使用“%Id”
+D:\rtklib\rtk\app\rtknavi_qt\navimain.cpp(2932,20): message : 请考虑在格式字符串中使用“%I64d”
+D:\rtklib\rtk\app\rtknavi_qt\navimain.cpp(2932,20): warning C4477: “sscanf”: 格式字符串“%ld”需要类型“long *”的参数，但可变参数 6 拥有了类型“time_t *”
+D:\rtklib\rtk\app\rtknavi_qt\navimain.cpp(2932,20): message : 请考虑在格式字符串中使用“%lld”
+D:\rtklib\rtk\app\rtknavi_qt\navimain.cpp(2932,20): message : 请考虑在格式字符串中使用“%Id”
+D:\rtklib\rtk\app\rtknavi_qt\navimain.cpp(2932,20): message : 请考虑在格式字符串中使用“%I64d”
+D:\rtklib\rtk\app\rtknavi_qt\navimain.cpp(2932,20): warning C4477: “sscanf”: 格式字符串“%ld”需要类型“long *”的参数，但可变参数 7 拥有了类型“time_t *”
+D:\rtklib\rtk\app\rtknavi_qt\navimain.cpp(2932,20): message : 请考虑在格式字符串中使用“%lld”
+D:\rtklib\rtk\app\rtknavi_qt\navimain.cpp(2932,20): message : 请考虑在格式字符串中使用“%Id”
+D:\rtklib\rtk\app\rtknavi_qt\navimain.cpp(2932,20): message : 请考虑在格式字符串中使用“%I64d”
+  moc_navimain.cpp
+  rtknavi_qt.vcxproj -> D:\rtklib\rtk\app\rtknavi_qt\debug\rtknavi_qt.exe

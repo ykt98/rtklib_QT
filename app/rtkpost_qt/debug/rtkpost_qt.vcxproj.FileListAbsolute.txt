@@ -1,0 +1,2 @@
+D:\rtklib\rtk\app\rtkpost_qt\debug\rtkpost_qt.exe
+D:\rtklib\rtk\app\rtkpost_qt\debug\rtkpost_qt.pdb
